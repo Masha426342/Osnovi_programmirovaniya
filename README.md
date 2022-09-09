@@ -3,7 +3,7 @@
 #Lab works:
 
 
-3. [Типы данных](https://github.com/Masha426342/Osnovi_programmirovaniya/blob/main/Копия_блокнота_%22Untitled2_ipynb%22.ipynb)
+3. [Типы данных](https://drive.google.com/drive/folders/1RxDkVaAgB6hMhpHYORYlXkDlH7Zy-QnF?usp=sharing)
 4. [Поток команд - управляющие структуры]()
 5. [Подпрограммы]()
 6. [Вычислительная сложность алгоритмов]()
