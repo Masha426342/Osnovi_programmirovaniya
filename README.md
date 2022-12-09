@@ -7,6 +7,6 @@
 4. [Поток команд - управляющие структуры](https://github.com/Masha426342/Osnovi_programmirovaniya/blob/main/4_2_1_ipynb%22.ipynb)
 5. [Подпрограммы](https://github.com/Masha426342/Osnovi_programmirovaniya/blob/main/Untitled13.ipynb)
 6. [Вычислительная сложность алгоритмов](https://github.com/Masha426342/Osnovi_programmirovaniya/blob/main/Untitled14.ipynb)
-7. [Ошибки и исключения]()
+7. [Ошибки и исключения](https://github.com/Masha426342/Osnovi_programmirovaniya/blob/main/Untitled17.ipynb)
 8. [Файлы и сериализация данных]()
 9. [Модули и пакеты]()
